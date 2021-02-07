@@ -4,7 +4,7 @@
   "description": "learn lit element",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "http-server -p 8090 -o build -c-1"
   },
   "author": "Chetan Chilhate",
   "license": "ISC"
